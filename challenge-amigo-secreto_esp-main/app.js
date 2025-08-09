@@ -51,5 +51,6 @@ function sortearAmigo() {
     }
     amigos = [];
     mostrarAmigos();
-    
+    limpiarInput()
+   
 }
