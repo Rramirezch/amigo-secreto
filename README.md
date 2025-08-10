@@ -32,7 +32,7 @@ El juego de **Amigo Secreto** permite organizar sorteos automáticos de manera s
 
 ## Imagen / Logo
 
-![Logo Amigo Secreto](challenge-amigo-secreto_esp-main/assets/amigo-secreto.png)
+![Logo Amigo Secreto](assets/amigo-secreto.png)
 
 ## Licencia
 
